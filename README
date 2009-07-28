@@ -1,0 +1,12 @@
+Widget Packager - Initial Release.
+by Mike at A Different Engine
+
+July 2009
+
+This is a small packager script for Yahoo! Connected TV Widgets. Will Packager for both sizes, or an input size
+Will also validate the size.  Reads the widget.xml file to get application id and version for packaged widget
+name.
+
+Optionally should take an IGNORE file with a list of files or directories to ignore in packaging one file per line.
+
+
