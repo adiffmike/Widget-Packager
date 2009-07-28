@@ -7,6 +7,8 @@ This is a small packager script for Yahoo! Connected TV Widgets. Will Packager f
 Will also validate the size.  Reads the widget.xml file to get application id and version for packaged widget
 name.
 
+Run packager -h for options.
+
 Optionally should take an IGNORE file with a list of files or directories to ignore in packaging one file per line.
 
 
